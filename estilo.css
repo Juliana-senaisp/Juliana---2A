@@ -1,0 +1,14 @@
+img {
+    width: 200px;
+}
+
+div {
+    display: inline-flex;
+}
+
+.caixa {
+    align-items: center;
+}
+
+
+
